@@ -10,7 +10,7 @@ TECHNOPRENEURSHIP
 - NEED UG ANACONDA: 
 https://www.anaconda.com/download
 
-then sa  ```bash
+then sa ANACONDA PROMPT
 pip install streamlit streamlit-agraph requests
 
 
